@@ -13,3 +13,5 @@ Image captioning using attention models
 ### Attention weight calculation
 ![ATTENTION_WEIGHTS](notebook_images/attention_dim.png?raw=true)
 
+### Repositiry referred:
+https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
