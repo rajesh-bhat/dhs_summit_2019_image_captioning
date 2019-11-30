@@ -1,6 +1,8 @@
-# dhs_summit_2019_image_captioning
+
 # Image captioning using attention models
+## Presented at Data Hack Summit 2019 and 3rd Kaggle Days Meetup Bangalore - Senior Track 
 ![Alt text](image_captioning_session.png?raw=true)
+![Kaggle Meetup](image_captioning_session_kaggleblr.png?raw=true)
 
 
 ### Task
@@ -18,3 +20,4 @@
 
 ### Repository referred for coding:
 https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
+Modifications done: using shared weights when calculating attention weights.
