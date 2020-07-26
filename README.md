@@ -1,5 +1,11 @@
+# Image Captioning using attention models
 
-# Image captioning using attention models
+### Update: 26th July 2020
+Blog published at Weights and Biases: https://app.wandb.ai/authors/image-captioning/reports/Generate-Meaningful-Captions-for-Images-with-Attention-Models--VmlldzoxNzg0ODA
+
+Code for Image Captioning now available in TF 2.0 : tensorflow-image-captioning.ipynb
+
+
 ## Presented at Data Hack Summit 2019 and 3rd Kaggle Days Meetup Bangalore - Senior Track 
 ![Alt text](image_captioning_session.png?raw=true)
 ![Kaggle Meetup](image_captioning_session_kaggleblr.png?raw=true)
